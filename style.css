@@ -1,0 +1,123 @@
+.first-box{
+    background-color: rgb(200, 147, 78);
+    width: 70%;
+    height: 750px;
+    float: right;
+}
+.second-box{
+    background-color: rgb(202, 162, 109);
+    width: 30%;
+    height: 750px;
+    float: left;
+}
+.righ-smallbox{
+    background-color: rgba(21, 21, 21, 0.67);
+    width: 80%;
+    height: 600px;
+    margin-top: 75px;
+    float: left;
+    border-top-right-radius: 10px ;
+    border-bottom-right-radius: 10px ;
+
+}
+.left-smallbox{
+    background-color: rgba(221, 195, 45, 0.67);
+    width: 80%;
+    height: 600px;
+    margin-left: 20%;
+    margin-top: 75px;
+    
+    
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius:10px ;
+    padding-left: 1%;
+    padding-top: 10%;
+
+
+
+}
+
+
+.sign{
+
+    color: bisque;
+    font-family:Algerian ;
+    
+}
+.open{
+font-family: Algerian;
+font-size: medium;
+color: rgb(115, 73, 21);
+padding-top: 30%;
+}
+.to{
+font-family: Algerian;
+font-size: medium;
+color: rgb(217, 43, 214);
+
+
+}
+.hole{
+    font-family: Algerian;
+    font-size: medium;
+    color: rgb(38, 85, 91);
+}
+
+*{
+    box-sizing: border-box;
+}  
+.box10{
+    margin-top: 20%;
+}
+.email{
+ width: 250px;
+ height: 30px;
+ border: none;
+ border-radius: 10px;
+ padding-left: 100px;
+ background-color: rgb(242, 203, 141);
+ font-family:Algerian ;
+ margin-bottom: 10px;
+}
+.PHONE{
+    width: 250px;
+ height: 30px;
+ border: none;
+ border-radius: 10px;
+ padding-left: 80px;
+ background-color: rgb(242, 203, 141);
+ font-family:Algerian ;
+ margin-bottom: 10px;
+
+}
+.ZIP{
+
+    width: 250px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 95px;
+    background-color: rgb(242, 203, 141);
+    font-family:Algerian ;
+    margin-bottom: 10px;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color: rgb(242, 203, 141);
+    font-family:Algerian ;
+    margin-bottom: 10px;
+}
+.lok{
+    width: 100px;
+    height: auto;
+    float: right;
+    margin-top: 20px;
+
+}
+
+
+
